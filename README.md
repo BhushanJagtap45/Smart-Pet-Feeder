@@ -1,20 +1,86 @@
-# Smart-Pet-Feeder
-ESP32-based Smart Pet Feeder using Servo Motor with Web Control
-# Smart Pet Feeder 🐶
+# 🐶 Smart Pet Feeder using ESP32
 
-ESP32 based Smart Pet Feeder using SG90 Servo Motor.
+A Smart IoT-based Pet Feeder developed using **ESP32**, **SG90 Servo Motor**, and a **Wi-Fi Web Dashboard**. This project allows users to feed their pets remotely using any web browser connected to the same Wi-Fi network.
 
-## Components
-- ESP32 Board
+---
+
+## 🚀 Features
+
+- 📶 Wi-Fi Based Control
+- 🌐 Modern Web Dashboard
+- 🍽️ Feed Now Button
+- 🎚️ Food Quantity Slider
+- 📊 Feed Counter
+- ⏰ Last Feed Status
+- 🤖 SG90 Servo Motor Control
+- 📱 Mobile Friendly Interface
+
+---
+
+## 🛠️ Components Used
+
+- ESP32 Dev Module
 - SG90 Servo Motor
 - Jumper Wires
+- USB Cable
 
-## Features
-- Mobile WiFi Control
-- Servo Based Food Dispensing
-- IoT Based Automation
+---
 
-## Technology Used
-- Arduino C++
+## 🔌 Circuit Connections
+
+| ESP32 Pin | SG90 Servo |
+|-----------|------------|
+| GPIO 13 | Signal (Orange) |
+| 5V (VIN) | VCC (Red) |
+| GND | GND (Brown) |
+
+---
+
+## 📷 Project Images
+
+### 🌐 Web Dashboard
+
+![Web Dashboard](Images/webpage.jpg)
+
+### 🔧 ESP32 + SG90 Servo
+
+![ESP32 + Servo](Images/servo.jpg)
+
+---
+
+## 💻 Technologies Used
+
+- Arduino IDE
 - ESP32
+- C++
+- HTML
+- CSS
+- Wi-Fi Networking
+- Embedded Systems
+
+---
+
+## 📌 Future Improvements
+
+- 📷 ESP32-CAM Live Monitoring
+- 📏 Ultrasonic Sensor for Food Level Detection
+- ⏰ Automatic Feeding Scheduler
+- 📱 Mobile App Control
+- 🤖 AI-Based Pet Detection
+
+---
+
+## 👨‍💻 Developer
+
+# **Bhushan Jagtap**
+
+### Automation and Robotics Engineering Student
+
+🚀 Passionate about:
+- Automation
+- Robotics
 - IoT
+- Embedded Systems
+- Artificial Intelligence (AI)
+
+⭐ **If you like this project, don't forget to Star this Repository!**
