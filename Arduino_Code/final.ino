@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <ESP32Servo.h>
 
-const char* ssid = "Jagtap WiFi";
-const char* password = "Bhushan@4321";   
+const char* ssid = "WiFi_Name";
+const char* password = "Wifi_Password";   
 
 Servo feederServo;
 int feedAngle = 60;
