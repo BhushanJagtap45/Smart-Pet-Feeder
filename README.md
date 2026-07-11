@@ -38,13 +38,13 @@ A Smart IoT-based Pet Feeder developed using **ESP32**, **SG90 Servo Motor**, an
 
 ## 📷 Project Images
 
-### 🌐 Web Dashboard
+### 🌐 Web page
 
-![Web Dashboard](Images/webpage.jpg)
+![Web page](Images/web page.jpg)
 
 ### 🔧 ESP32 + SG90 Servo
 
-![ESP32 + Servo](Images/servo.jpg)
+![ESP32 and Servo](Images/servo and esp32.jpg)
 
 ---
 
